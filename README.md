@@ -14,6 +14,7 @@ Note: There will be three types of lockers (small, medium, large) and the packag
 Note: Trie is a powerful data structure. Also known as Prefix tree, it is more flexible to support applications like auto-complete. It's a special data structure used to store strings that can be visualized as a graph
 
 4. Design a simplified version of Twitter where users can post tweets, follow/unfollow another user, and is able to see the 10 most recent tweets in the user's news feed.
+
 Implement the Twitter class:
 . Twitter() Initializes your twitter object.
 . void postTweet(int userId, int tweetId) Composes a new tweet with ID tweetId by the user userId. Each call to this function will be made with a unique tweetId.
